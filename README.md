@@ -21,7 +21,7 @@ This tool continuously monitors and displays various VPS specifications, includi
 
 1. Clone the repository or download the script:
     ```bash
-    git clone https://github.com/yourusername/vps-monitoring-tool.git
+    git clone https://github.com/AnonAmit/specs
     cd vps-monitoring-tool
     ```
 
